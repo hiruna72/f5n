@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-21T17:29:12.227Z" agent="5.0 (X11)" etag="Tw3TI95zk9ERWlu1SQ_T" version="12.9.10" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-04-21T17:31:47.182Z" agent="5.0 (X11)" etag="EOWS__-oO89Rn9jiuftG" version="12.9.10" type="github" pages="9">
   <diagram id="rwsDpPcG-9lv_OZG9mr8" name="f5n_network">
     <mxGraphModel dx="811" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -815,7 +815,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ArticPipeline" id="SksNvTs0ILngdR5F5tTq">
-    <mxGraphModel dx="1159" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="JaywE-1XMddzR5eYZWAe-0" />
         <mxCell id="JaywE-1XMddzR5eYZWAe-1" parent="JaywE-1XMddzR5eYZWAe-0" />
@@ -834,6 +834,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JaywE-1XMddzR5eYZWAe-1" source="JaywE-1XMddzR5eYZWAe-7" target="JaywE-1XMddzR5eYZWAe-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaywE-1XMddzR5eYZWAe-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JaywE-1XMddzR5eYZWAe-1" source="JaywE-1XMddzR5eYZWAe-7" target="JaywE-1XMddzR5eYZWAe-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-7" value="&lt;i&gt;Reference Genome&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JaywE-1XMddzR5eYZWAe-1">
@@ -938,7 +941,7 @@
           <mxGeometry x="392" y="397" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-56" value="&lt;div&gt;&lt;i&gt;Use multiple windows&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;if RAM is not enough&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="JaywE-1XMddzR5eYZWAe-1">
-          <mxGeometry x="371" y="76" width="125" height="28" as="geometry" />
+          <mxGeometry x="396" y="140" width="125" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JaywE-1XMddzR5eYZWAe-1" source="JaywE-1XMddzR5eYZWAe-57" target="JaywE-1XMddzR5eYZWAe-59">
           <mxGeometry relative="1" as="geometry" />
@@ -993,8 +996,14 @@
         <mxCell id="JaywE-1XMddzR5eYZWAe-75" value="Build Consensus&lt;br&gt;&lt;div&gt;&lt;i&gt;[Bcftools]&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JaywE-1XMddzR5eYZWAe-1">
           <mxGeometry x="549" y="634" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JaywE-1XMddzR5eYZWAe-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JaywE-1XMddzR5eYZWAe-1" source="JaywE-1XMddzR5eYZWAe-81" target="JaywE-1XMddzR5eYZWAe-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-81" value="Build Consensus&lt;br&gt;&lt;div&gt;&lt;i&gt;[Bcftools]&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JaywE-1XMddzR5eYZWAe-1">
           <mxGeometry x="706" y="634" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JaywE-1XMddzR5eYZWAe-110" value="Consensus output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JaywE-1XMddzR5eYZWAe-1">
+          <mxGeometry x="706" y="711" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
