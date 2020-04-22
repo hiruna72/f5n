@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-22T11:08:43.088Z" agent="5.0 (X11)" etag="j418WicnvQjXEQ7pWv70" version="13.0.0" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2020-04-22T11:09:49.093Z" agent="5.0 (X11)" etag="fWCCMQVRerKFUdvibV3d" version="13.0.0" type="github" pages="10">
   <diagram id="rwsDpPcG-9lv_OZG9mr8" name="f5n_network">
     <mxGraphModel dx="811" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1239,10 +1239,10 @@
         <mxCell id="3kecb-mI4Jbi1s-eHNr--0" />
         <mxCell id="3kecb-mI4Jbi1s-eHNr--1" parent="3kecb-mI4Jbi1s-eHNr--0" />
         <mxCell id="3kecb-mI4Jbi1s-eHNr--2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
-          <mxGeometry x="43" y="142" width="110" height="50" as="geometry" />
+          <mxGeometry x="45" y="142" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3kecb-mI4Jbi1s-eHNr--3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
-          <mxGeometry x="162" y="123" width="180" height="156" as="geometry" />
+          <mxGeometry x="167" y="123" width="175" height="156" as="geometry" />
         </mxCell>
         <mxCell id="3kecb-mI4Jbi1s-eHNr--4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.58;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="3kecb-mI4Jbi1s-eHNr--1" source="3kecb-mI4Jbi1s-eHNr--7" target="3kecb-mI4Jbi1s-eHNr--16">
           <mxGeometry relative="1" as="geometry">
@@ -1341,17 +1341,17 @@
         <mxCell id="3kecb-mI4Jbi1s-eHNr--32" value="&lt;i&gt;Aligned events&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
           <mxGeometry x="644" y="197" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3kecb-mI4Jbi1s-eHNr--39" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Before using &lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;F5C or Nanopolish&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
-          <mxGeometry x="358" y="97" width="102" height="28" as="geometry" />
+        <mxCell id="3kecb-mI4Jbi1s-eHNr--39" value="&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Before using F5C&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
+          <mxGeometry x="361" y="109" width="96" height="14" as="geometry" />
         </mxCell>
         <mxCell id="3kecb-mI4Jbi1s-eHNr--42" value="&lt;div&gt;&lt;i&gt;Aligned &amp;amp; indexed reads&lt;/i&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
           <mxGeometry x="577" y="91" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="3kecb-mI4Jbi1s-eHNr--43" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;optional&lt;/i&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
-          <mxGeometry x="69" y="148" width="49" height="15" as="geometry" />
+          <mxGeometry x="71" y="148" width="49" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3kecb-mI4Jbi1s-eHNr--44" value="&lt;div align=&quot;center&quot;&gt;Partition Reference&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="3kecb-mI4Jbi1s-eHNr--1">
-          <mxGeometry x="42" y="167" width="113" height="14" as="geometry" />
+          <mxGeometry x="44" y="167" width="113" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
