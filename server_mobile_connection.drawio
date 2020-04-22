@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-22T11:42:36.635Z" agent="5.0 (X11)" etag="cYll_4YZwrjRdzN_0O0Y" version="13.0.0" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2020-04-22T11:54:35.345Z" agent="5.0 (X11)" etag="EfW6zuur_NZ-usT8IAY0" version="13.0.0" type="github" pages="11">
   <diagram id="rwsDpPcG-9lv_OZG9mr8" name="f5n_network">
     <mxGraphModel dx="811" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1386,6 +1386,9 @@
         </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-9" value="&lt;i&gt;Fast5 files&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="JaywE-1XMddzR5eYZWAe-1" vertex="1">
           <mxGeometry x="432" y="96" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qWaSu_paVNqCHDa9mgIj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JaywE-1XMddzR5eYZWAe-1" source="JaywE-1XMddzR5eYZWAe-14" target="JaywE-1XMddzR5eYZWAe-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JaywE-1XMddzR5eYZWAe-14" value="&lt;i&gt;reads.fasta&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="JaywE-1XMddzR5eYZWAe-1" vertex="1">
           <mxGeometry x="288" y="96" width="110" height="50" as="geometry" />
