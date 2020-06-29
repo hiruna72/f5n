@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T14:53:25.698Z" agent="5.0 (X11)" etag="LQGQfT4AN-_pRTVxn20X" version="13.3.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-06-29T14:56:57.314Z" agent="5.0 (X11)" etag="PZChz6RW7UFd5aTE2EUb" version="13.3.5" type="github" pages="16">
   <diagram id="rwsDpPcG-9lv_OZG9mr8" name="f5n_network">
     <mxGraphModel dx="811" dy="467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3403,8 +3403,8 @@
         <mxCell id="unLGXeQxzEGhryJYmv4x-5" value="Calculate methylation frequency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZcfdhoLdfBc6u9A_3DK-1">
           <mxGeometry x="195.51" y="313" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="unLGXeQxzEGhryJYmv4x-6" value="Merge using &lt;i&gt;freq-merge &lt;/i&gt;algorithm and using &lt;i&gt;n-fold&lt;/i&gt; or &lt;i&gt;real-time&lt;/i&gt; merge method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZcfdhoLdfBc6u9A_3DK-1">
-          <mxGeometry x="75" y="439" width="444" height="20" as="geometry" />
+        <mxCell id="unLGXeQxzEGhryJYmv4x-6" value="Merge using &lt;i&gt;freq-merge &lt;/i&gt;algorithm " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZcfdhoLdfBc6u9A_3DK-1">
+          <mxGeometry x="73" y="439" width="444" height="20" as="geometry" />
         </mxCell>
         <mxCell id="unLGXeQxzEGhryJYmv4x-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="ZZcfdhoLdfBc6u9A_3DK-1">
           <mxGeometry x="212.51" y="529" width="120" height="60" as="geometry" />
